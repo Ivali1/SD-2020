@@ -1,0 +1,6 @@
+﻿  Main.cpp
+e:\2020-sd-the last\homework1-thelast\main.cpp(178): warning C4018: '>=': signed/unsigned mismatch
+e:\2020-sd-the last\homework1-thelast\main.cpp(202): warning C4018: '<=': signed/unsigned mismatch
+e:\2020-sd-the last\homework1-thelast\main.cpp(59): warning C4715: 'addToList': not all control paths return a value
+  Homework1-thelast.vcxproj -> E:\2020-SD-the last\Homework1-thelast\Debug\Homework1-thelast.exe
+  Homework1-thelast.vcxproj -> E:\2020-SD-the last\Homework1-thelast\Debug\Homework1-thelast.pdb (Partial PDB)

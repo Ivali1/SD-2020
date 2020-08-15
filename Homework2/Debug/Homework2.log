@@ -1,0 +1,6 @@
+﻿  Maincpp.cpp
+e:\2020-sd-the last\homework2\maincpp.cpp(115): warning C4715: 'BalanceTree': not all control paths return a value
+e:\2020-sd-the last\homework2\maincpp.cpp(78): warning C4715: 'isBst': not all control paths return a value
+e:\2020-sd-the last\homework2\maincpp.cpp(141): warning C4715: 'PerfectBalanceTree': not all control paths return a value
+  Homework2.vcxproj -> E:\2020-SD-the last\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> E:\2020-SD-the last\Homework2\Debug\Homework2.pdb (Partial PDB)
