@@ -1,0 +1,15 @@
+Файлове - буфериране, състояния. Приложения и особености. Текстови файлове.
+Пряка селекция
+■ Вмъкване-https://www.youtube.com/watch?v=i-SKeOcBwko
+■ Мехурче-Easy Programming - Beginner C++ Tutorial - The Bubble Sort (23)
+■ Клатене, сортировка на Шел-https://www.youtube.com/watch?v=3yUSDJVDk4E
+
+Структури от Данни 2017-2018 5
+По-бързи алгоритми
+■ Сортиране чрез сливане
+■ Бързо сортиране
+■ Пирамидално сортиране
+Структури от Данни 201
+Дървета. Представяне и приложения.(Obiknoveni drveta)
+Пирамида. Балансирани дървета. Дървета върху диска.-https://www.youtube.com/watch?v=LU4fGD-fgJQ&t=605s
+Sortirane na spisuk
